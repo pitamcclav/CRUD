@@ -250,3 +250,7 @@ C:\Users\HP\Documents\GitHub\CRUD\CRUD\bin\Debug\net8.0\runtimes\win\lib\net7.0\
 C:\Users\HP\Documents\GitHub\CRUD\CRUD\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\HP\Documents\GitHub\CRUD\CRUD\obj\Debug\net8.0\CRUD.csproj.AssemblyReference.cache
 C:\Users\HP\Documents\GitHub\CRUD\CRUD\obj\Debug\net8.0\CRUD.csproj.Up2Date
+C:\Users\HP\Documents\GitHub\CRUD\CRUD\bin\Debug\net8.0\CRUD.staticwebassets.endpoints.json
+C:\Users\HP\Documents\GitHub\CRUD\CRUD\obj\Debug\net8.0\CRUD.sourcelink.json
+C:\Users\HP\Documents\GitHub\CRUD\CRUD\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP\Documents\GitHub\CRUD\CRUD\obj\Debug\net8.0\staticwebassets\msbuild.CRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
